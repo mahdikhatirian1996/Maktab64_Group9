@@ -1,1 +1,4 @@
-mahdi khatirian ==> test conflict 1
+<<<<<<< HEAD
+mahdi khatirian ==> test conflict 2
+kiarah fazli ==> test conflict 1
+>>>>>>> kiarash-fazli-branch
